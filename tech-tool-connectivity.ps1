@@ -1,7 +1,7 @@
 <#
 Script: Tech Tool connectivity.ps1
 Description: A PowerShell script to test TCP connections to hosts required by Tech Tool 2.8.210
-Version: 1.0
+Version: 1.0.1
 Date: 2023-08-24
 Company: Volvo Construction Equipment
 Author: Mustafa Çetinkaya
