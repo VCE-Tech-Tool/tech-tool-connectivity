@@ -1,1 +1,1 @@
- ps2exe .\tech-tool-connectivity.ps1 -iconFile .\icon.ico -version 1.0.1 -title "Tech Tool Connectivity testing tool" -outputFile "Tech Tool Connectivity.exe"
+ ps2exe .\vce-tech-tool-connectivity.ps1 -iconFile .\icon.ico -version 1.0.2 -company "Volvo Construction Equipment" -title "VCE Tech Tool Connectivity testing tool" -outputFile "VCE Tech Tool Connectivity.exe"
